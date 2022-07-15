@@ -31,7 +31,6 @@ Dataset Features:
   - Calculate Cohort Analysis and RFM for dataset.
   - Fit different unsupervised algorithms like clustering and Kmeans. Compare models and use snake plots and heatmaps.
   - Create a segmentation using Tableau.
-  - Make a report mentioning the details about the chosen model and how to apply it to predict revenue from customers.
     
 **Deliverables**
   - Developed Code in Python Notebooks
